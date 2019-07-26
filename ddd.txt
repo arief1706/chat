@@ -1,3 +1,21 @@
+Skip to content
+ 
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@arief1706 
+0
+0 0 arief1706/chat
+ Code  Issues 0  Pull requests 0  Projects 0  Wiki  Security  Insights  Settings
+chat/ddd.txt
+@arief1706 arief1706 Update ddd.txt
+fac7b36 1 hour ago
+273 lines (231 sloc)  7.84 KB
+    
 <!DOCTYPE html>
 <html>
 <title>iCoffee</title>
@@ -14,14 +32,14 @@ body {font-family: Arial, Helvetica, sans-serif;}
 .open-button {
   background-color: #555;
   color: white;
-  padding: 16px 20px;
+  padding: 5px 15px;
   border: none;
   cursor: pointer;
   opacity: 0.8;
   position: fixed;
   bottom: 23px;
   right: 28px;
-  width: 280px;
+  width: 70px;
 }
 
 /* The popup chat - hidden by default */
@@ -47,7 +65,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
 .form-container .btn {
   background-color: #4CAF50;
   color: white;
-  padding: 16px 20px;
+  padding: 5px 15px;
   border: none;
   cursor: pointer;
   width: 100%;
@@ -222,7 +240,7 @@ body, html {
 
 <div class="chat-popup" id="myForm">
   <form action="/action_page.php" class="form-container">
-    <h1>Chat</h1>
+    <h1>Client Support</h1>
 
     <class ="right"><b>Message</b></label>
     
