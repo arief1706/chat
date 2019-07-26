@@ -79,7 +79,10 @@ body {font-family: Arial, Helvetica, sans-serif;}
 
 /* Add a red background color to the cancel button */
 .form-container .cancel {
-  background-color: red;
+  background-color: #555;
+  color: white;
+  padding: 16px 20px;
+  
 }
 
 /* Add some hover effects to buttons */
@@ -89,7 +92,6 @@ body {font-family: Arial, Helvetica, sans-serif;}
 .container img {
   float: left;
   max-width: 60px;
-  width: 100%;
   margin-right: 20px;
   border-radius: 50%;
 }
