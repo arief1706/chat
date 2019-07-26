@@ -179,7 +179,7 @@ body, html {
       <h5>Bread Basket</h5>
       <p class="w3-text-grey">Assortment of fresh baked fruit breads and muffins 5.50</p><br>
     
-      <h5>Honey Almond Granola with Fruits</h5>
+      <h5>Honey Almond Granola with Fruits or Coffee</h5>
       <p class="w3-text-grey">Natural cereal of honey toasted oats, raisins, almonds and dates 7.00</p><br>
     
       <h5>Belgian Waffle</h5>
@@ -199,14 +199,14 @@ body, html {
       <h5>Chocolato</h5>
       <p class="w3-text-grey">Chocolate espresso with milk 4.50</p><br>
     
-      <h5>Corretto</h5>
-      <p class="w3-text-grey">Whiskey and coffee 5.00</p><br>
+      <h5>Promo 30% </h5>
+      <p class="w3-text-grey">Cookie Almond + AvocadeCake, Coffee Cake Rp.35.000</p><br>
     
-      <h5>Iced tea</h5>
-      <p class="w3-text-grey">Hot tea, except not hot 3.00</p><br>
+      <h5>Iced</h5>
+      <p class="w3-text-grey">, FruitSlice except not hot 15.000</p><br>
     
-      <h5>Soda</h5>
-      <p class="w3-text-grey">Coke, Sprite, Fanta, etc. 2.50</p>
+      <h5>Coffee</h5>
+      <p class="w3-text-grey">Coffee Cream, Smooth Latte, Red Velvet + Cookie etc. Rp.20.000</p>
     </div>  
     <img src="/w3images/coffeehouse2.jpg" style="width:100%;max-width:1000px;margin-top:32px;">
   </div>
